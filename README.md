@@ -1,9 +1,9 @@
 # 🚀 LeetCode Practice & Interview Prep
 
-Welcome to my  **LeetCode** repository! This space serves as a central hub for tracking my daily coding practice, mastering Data Structures and Algorithms (DSA), and preparing for technical interviews. 
+Welcome to my  **LeetCode** repository! This space serves as a central hub for tracking my daily coding practice, mastering Data Structures and Algorithms (DSA) and  sharpening my **SQL & Database query**, and preparing for technical interviews. 
 
 ![LeetCode Stats](https://leetcode.com/u/subha_btech/)
-*(Optional: Replace `subha_btech` with your actual LeetCode username to display live stats!)*
+
 
 
 
@@ -12,20 +12,18 @@ Welcome to my  **LeetCode** repository! This space serves as a central hub for t
 
 ## 🛠️ Topic-Wise Roadmap & Checklist
 
-### 1. Core Arrays & Linear Structures
+### 💻 Algorithmic Paradigms
 - [ ] **Arrays & Hashing** (e.g., Two Sum, Group Anagrams)
-- [ ] **Two Pointers** (e.g., Valid Palindrome, 3Sum)
-- [ ] **Sliding Window** (e.g., Longest Substring Without Repeating Characters)
-
-### 2. Nonlinear & Advanced Data Structures
-- [ ] **Trees & Graphs** (BFS, DFS, Binary Tree Maximum Path Sum)
-- [ ] **Heaps / Priority Queues** (K Closest Points to Origin)
-- [ ] **Tries** (Implement Trie, Word Search II)
-
-### 3. Algorithmic Paradigms
-- [ ] **Backtracking** (Subsets, Permutations)
+- [ ] **Two Pointers & Sliding Window** (e.g., 3Sum, Longest Substring)
+- [ ] **Trees & Graphs** (BFS, DFS, Binary Tree Path Sum)
 - [ ] **Dynamic Programming** (0/1 Knapsack, Longest Common Subsequence)
-- [ ] **Greedy Algorithms** (Jump Game, Gas Station)
+
+### 🗄️ Database & SQL Core
+- [ ] **Basic Select & Filtering** (WHERE, AND/OR/NOT, LIKE, IS NULL)
+- [ ] **Basic Joins** (INNER, LEFT, RIGHT, FULL OUTER, Self Joins)
+- [ ] **Aggregations & Grouping** (COUNT, SUM, AVG, MIN/MAX, GROUP BY, HAVING)
+- [ ] **String & Date Functions** (SUBSTRING, CONCAT, COALESCE, DATEDIFF)
+- [ ] **Advanced SQL & Windows** (ROW_NUMBER, RANK, DENSE_RANK, LEAD/LAG, CTEs)
 
 ---
 
