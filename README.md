@@ -2,8 +2,6 @@
 
 Welcome to my  **LeetCode** repository! This space serves as a central hub for tracking my daily coding practice, mastering Data Structures and Algorithms (DSA) and  sharpening my **SQL & Database query**, and preparing for technical interviews. 
 
-![LeetCode Stats](https://leetcode.com/u/subha_btech/)
-
 
 
 
