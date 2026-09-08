@@ -41,3 +41,11 @@ Welcome to my  **LeetCode** repository! This space serves as a central hub for t
 
 ---
 ⭐ **Drop a star if you find this repository **
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/subha-btech805/leet_practice/tree/master/0175-combine-two-tables) |
+<!---LeetCode Topics End-->
