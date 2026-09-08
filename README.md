@@ -48,4 +48,5 @@ Welcome to my  **LeetCode** repository! This space serves as a central hub for t
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/subha-btech805/leet_practice/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/subha-btech805/leet_practice/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
