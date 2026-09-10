@@ -50,4 +50,5 @@ Welcome to my  **LeetCode** repository! This space serves as a central hub for t
 | [0175-combine-two-tables](https://github.com/subha-btech805/leet_practice/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/subha-btech805/leet_practice/tree/master/0176-second-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/subha-btech805/leet_practice/tree/master/0183-customers-who-never-order) |
+| [0196-delete-duplicate-emails](https://github.com/subha-btech805/leet_practice/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
