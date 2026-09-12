@@ -53,4 +53,5 @@ Welcome to my  **LeetCode** repository! This space serves as a central hub for t
 | [0180-consecutive-numbers](https://github.com/subha-btech805/leet_practice/tree/master/0180-consecutive-numbers) |
 | [0183-customers-who-never-order](https://github.com/subha-btech805/leet_practice/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/subha-btech805/leet_practice/tree/master/0196-delete-duplicate-emails) |
+| [0197-rising-temperature](https://github.com/subha-btech805/leet_practice/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
